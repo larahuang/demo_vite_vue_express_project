@@ -9,10 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "express": "^4.19.2",
     "vue": "^3.4.37"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.2",
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.1.4",
     "typescript": "^5.5.3",
     "vite": "^5.4.1",
     "vue-tsc": "^2.0.29"
