@@ -1,0 +1,19 @@
+{
+   "src/assets/vue.svg": {
+    "file": "vite.svg",
+    "src": "src/assets/vue.svg"
+  },
+  "src/main.css": {
+    "file": "assets/main-BXd8x5l-.css",
+    "src": "src/main.css"
+  },
+  "src/main.ts": {
+    "file": "assets/main-DNpZuJpN.js",
+    "name": "main",
+    "src": "src/main.ts",
+    "isEntry": true,
+    "css": [
+      "assets/main-BXd8x5l-.css"
+    ]
+  }
+}
